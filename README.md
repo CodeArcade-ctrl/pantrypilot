@@ -1,5 +1,7 @@
 # PantryPilot
 
+> **[Open the live app](https://codearcade-ctrl.github.io/pantrypilot/)** · [English version](https://codearcade-ctrl.github.io/pantrypilot/en/)
+
 **Noteer wat er in je kast ligt en wanneer iets op moet.**
 
 ## Voor wie?
